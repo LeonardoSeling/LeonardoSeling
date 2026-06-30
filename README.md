@@ -1,12 +1,10 @@
 <div align="center">
 
-  <!-- BANNER DIGITAL ROXO (Substitua SEU_NOME na URL abaixo) -->
-  <img src="https://demolab.com+[SEU_NOME];Estudante+do+Ensino+M%C3%A9dio;Interessado+em+Tecnologia+e+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Me+chamo+Leonardo+Seling;Estudante+do+Ensino+M%C3%A9dio;Interessado+em+Tecnologia+e+Dev" alt="Typing SVG" />
 
   <br />
 
-  <!-- IMAGEM/GIF MINIMALISTA CONCEITUAL -->
-  <img src="https://giphy.com" width="380" alt="Cyberpunk Minimalist Coding" />
+  <img src="https://media.giphy.com/media/QssMCEClRv93Xv7wR0/giphy.gif" width="380" alt="Cyberpunk Minimalist Coding" />
 
   <br /> <br />
 
@@ -18,16 +16,13 @@
   ---
 
   ### 🛠️ Tecnologias e Ferramentas
-  <!-- Ícones organizados em tema escuro/roxo -->
   <p align="center">
-    <img src="https://skillicons.dev" alt="Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode" alt="Tecnologias" />
   </p>
 
   ---
 
   ### 📊 Estatísticas de Atividade
-  <!-- Gráfico de consistência com detalhes em roxo e sem bordas -->
-  <!-- ATENÇÃO: Substitua "SEU_USUARIO_GITHUB" abaixo pelo seu nome de usuário real -->
-  <img width="400px" src="https://herokuapp.com" alt="GitHub Streak" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoSeling&background=0d1117&border=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8A2BE2&sideLabels=ffffff&dates=8A2BE2" alt="GitHub Streak" />
 
 </div>
